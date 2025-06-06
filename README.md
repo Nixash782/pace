@@ -12,7 +12,7 @@ Welcome to **PACE**, a clean and user-friendly fitness website designed to help 
 
 The **sky blue + dark purple** combination reflects a balance between **energy and calm**, **inspiration and stability**, which supports the site’s goal of guiding users through a consistent and empowered fitness journey.
 This color strategy contributes to the site's:
-- 🧭 **Ease of navigation**
+-  **Ease of navigation**
   thus helpful to the user
 
 

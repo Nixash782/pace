@@ -1,9 +1,9 @@
 # pace
-# 🏃‍♀️ PACE – Personal Accountability for Consistent Exercise
+#  PACE – Personal Accountability for Consistent Exercise
 
 Welcome to **PACE**, a clean and user-friendly fitness website designed to help individuals get started with their fitness journey. Whether you're looking to find a trainer, book a session, or understand how to manage your fitness schedule, PACE provides a simple and intuitive experience.
 
-🌐 **Live Website:** [https://nixash782.github.io/pace/](https://nixash782.github.io/pace/)
+**Live Website:** [https://nixash782.github.io/pace/](https://nixash782.github.io/pace/)
 
 ---
 
